@@ -6,3 +6,4 @@
 - ## Web 服务 API
 
     - [入门](/docs/{{version}}/web-api/index)
+    - [地点检索 v2.0](/docs/{{version}}/web-api/place-search)
