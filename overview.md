@@ -1,4 +1,4 @@
-# baidu-map
+# 概述
 
 baidu-map 是一个开源的 [百度地图](http://lbsyun.baidu.com/) SDK。
 
