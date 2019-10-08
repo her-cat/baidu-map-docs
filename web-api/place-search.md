@@ -45,9 +45,7 @@ $webApi->place_search->rectangle($keyword, $longitude, $latitude, $options);
 ```
 
 
-> `$bounds` 参数支持数组类型：
->
->  $bounds = [38.76623, 116.43213, 39.54321, 116.46773];
+> `$bounds` 参数支持数组类型：[38.76623, 116.43213, 39.54321, 116.46773]
 
 ## 地点详情检索
 
@@ -59,6 +57,4 @@ $scope = 1; // 检索结果详细程度, 1: 基本信息 2: 详细信息
 $webApi->place_search->get($uid, $scope);
 ````
 
-> `$uid` 参数支持数组类型：
->
->  $uid = ['uid1', 'uid2', 'uid3'];
+> `$uid` 参数支持数组类型：['uid1', 'uid2', 'uid3']
