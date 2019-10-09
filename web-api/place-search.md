@@ -35,7 +35,6 @@ $webApi->place_search->circle($keyword, $longitude, $latitude, $options);
 $keyword = '关键词';
 $bounds = '矩形区域的经纬度，38.76623,116.43213,39.54321,116.46773 lat,lng(左下角坐标),lat,lng(右上角坐标)';
 
-$latitude = '纬度';
 $options = [
     'tag' => '美食',
     // 更多可选参数请参考官方文档
