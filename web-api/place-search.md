@@ -41,7 +41,7 @@ $options = [
     // 更多可选参数请参考官方文档
 ];
 
-$webApi->place_search->rectangle($keyword, $longitude, $latitude, $options);
+$webApi->place_search->rectangle($keyword, $bounds, $options);
 ```
 
 
