@@ -8,3 +8,4 @@
     - [入门](/docs/{{version}}/web-api/index)
     - [地点检索 v2.0](/docs/{{version}}/web-api/place-search)
     - [境外地点检索 v1.0](/docs/{{version}}/web-api/abroad-place-search)
+    - [时区服务](/docs/{{version}}/web-api/timezone)
