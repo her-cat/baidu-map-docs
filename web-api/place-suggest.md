@@ -1,4 +1,4 @@
-# 地点输入提示
+# 地点输入提示 v2.0
 
 > 官方文档: [http://lbsyun.baidu.com/index.php?title=webapi/place-suggestion-api](http://lbsyun.baidu.com/index.php?title=webapi/place-suggestion-api)
 
