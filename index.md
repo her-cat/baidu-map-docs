@@ -12,3 +12,4 @@
     - [时区服务](/docs/{{version}}/web-api/timezone)
     - [批量请求](/docs/{{version}}/web-api/batch-request)
     - [坐标转换](/docs/{{version}}/web-api/coords-convert)
+    - [静态图](/docs/{{version}}/web-api/static-map)
