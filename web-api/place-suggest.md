@@ -11,7 +11,7 @@ $options = [
     // 更多可选参数请参考官方文档
 ];
 
-$response = $webApi->place_suggest->get($keyword, $region, $options);
+$webApi->place_suggest->get($keyword, $region, $options);
 ```
 
 返回结果示例:
